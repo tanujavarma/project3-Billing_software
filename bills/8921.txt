@@ -1,0 +1,14 @@
+	Welcome Tanuja Retail
+
+ Bill Number : 8921
+ Customer Name :Tanuja
+ Phone Number : 7566
+ ============================================
+ Products		QTY		Price
+ ============================================
+ Limca		0		80
+ Sprite		0		60
+ --------------------------------------------
+ Cold drink tax				Rs. 7.0
+ Total Bill			147.0
+ --------------------------------------------
